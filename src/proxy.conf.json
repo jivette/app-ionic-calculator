@@ -1,0 +1,10 @@
+{
+    "/development/*": {
+        "target": "https://mvabpm6wce.execute-api.us-east-1.amazonaws.com/development",
+        "changeOrigin": true,
+        "secure": false,
+        "pathRewrite": {
+            "^/development": ""
+        }
+    }
+}

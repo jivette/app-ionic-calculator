@@ -25,3 +25,15 @@
 #container a {
   text-decoration: none;
 }
+
+.toolbar-home {
+  height: 40vh;
+  border-radius: 0 0 30px 30px;
+  display: flex;
+}
+
+.brand {
+  width: 250px;
+  height: auto;
+  margin: 0 auto;
+}
